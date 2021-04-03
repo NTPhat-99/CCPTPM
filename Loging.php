@@ -11,5 +11,6 @@
     <p>PassWord</p>
     <input type="text" name = "txtpass" placeholder="Enter Password">
   </label>
+  <button name="Button" type="submit">Login</button>
       
 </form>
