@@ -3,9 +3,13 @@
 ?>
 
 <form>
-      <p>Username</p>
-      <input type="text" name="" placeholder="Enter Username">
-      <p>PassWord</p>
-      <input type="text" name = "" placeholder="Enter Password">
-      ,<button type="button" name="button">Lonin</button>
+  <label class="lbUserName">
+    <p>Username</p>
+    <input type="text" name="txtname" placeholder="Enter Username">
+  </label>
+  <label class="lbPassWord">
+    <p>PassWord</p>
+    <input type="text" name = "txtpass" placeholder="Enter Password">
+  </label>
+      
 </form>
